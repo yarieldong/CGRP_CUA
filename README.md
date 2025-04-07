@@ -9,3 +9,6 @@ If you have any questions, please feel free to contact me via email (wed001@heal
 
 ## Acknowledgements
 This model was constructed using the `heemod` package. The link to the `heemod` package is located [here](https://CRAN.R-project.org/package=heemod).
+
+## Disclaimer
+This model is a work in progress. Future updates are forthcoming.
