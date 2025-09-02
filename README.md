@@ -1,4 +1,4 @@
-# Cost-Utility Analysis of CGRP Receptors Monoclonal Antibodies for Episodic Migraine Headaches Patients in the United States
+# Cost-Utility Analysis of CGRP Receptors Monoclonal Antibodies for Migraine Headaches Patients in the United States
 
 The code to construct this model are located in the [R Code folder](https://github.com/yarieldong/CGRP_CUA/tree/main/R%20Code).
 
