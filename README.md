@@ -10,7 +10,7 @@ Posters and presentations could be find here:
 
 [ISPOR 2025](ISPOR25_DONG_EE415_POSTER.pdf)
 
-[SMDM Open-source Model Special Interest Group Presentation](SMDM_SIG_Presentation_AD.pdf)
+[SMDM Open-source Model Special Interest Group Presentation](SMDM_SIG_Presentation.pdf)
 
 If you have any questions, please feel free to contact me via email (wed001@health.ucsd.edu).
 
